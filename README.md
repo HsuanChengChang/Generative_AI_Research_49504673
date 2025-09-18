@@ -1,3 +1,4 @@
+```
 Generative_AI_Research_49504673
 │
 ├── Literature_Review/
@@ -20,3 +21,4 @@ Generative_AI_Research_49504673
 │
 ├── Additional_Materials/
    └──20250919_ProjectA_image.jpg
+```
